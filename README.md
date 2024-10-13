@@ -5,9 +5,9 @@ https://linktr.ee/kiku09020
 
 
 # About me
-- My name is きくぴぃ
-- 21years old
-- Game Programmer
+- きくぴぃです
+- ゲーム業界 → Web業界転職予定
+- 個人開発、フリーランスに興味があります
 
 
 # Ability
@@ -15,7 +15,3 @@ https://linktr.ee/kiku09020
 - C#
 - Unity
 - Godot
-
-# Hobby
-- Aseprite
-- Lovely Composer
