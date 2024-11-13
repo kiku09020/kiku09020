@@ -12,6 +12,10 @@ https://linktr.ee/kiku09020
 
 # Ability
 ### Programming
-- C#
-- Unity
-- Godot
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,unity,godot,notion)](https://skillicons.dev)
+
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,firebase,flutter)](https://skillicons.dev)
