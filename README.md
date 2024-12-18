@@ -1,6 +1,7 @@
 # Hello! 👋
 
 ### Links
+https://kiku09020.github.io/my-page/
 https://linktr.ee/kiku09020
 
 
